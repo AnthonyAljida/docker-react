@@ -1,0 +1,6 @@
+{
+  "yaml.schemas": {
+    "kubernetes": "/simplek8s/pod.yaml",
+    "https://raw.githubusercontent.com/yannh/kubernetes-json-schema/master/v1.22.4-standalone-strict/all.json": "file:///Users/lavish/AllCode/Docker-and-kubernetes/simplek8s/pod.yaml"
+  }
+}
